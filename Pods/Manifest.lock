@@ -40,6 +40,7 @@ PODS:
     - SDWebImage/Core
   - SDWebImage/Core (3.7.1)
   - SVSegmentedControlFork (1.1)
+  - TWTSideMenuViewController (0.3)
   - WebViewJavascriptBridge (4.1.4)
   - XMPPFramework (3.6.4):
     - XMPPFramework/Authentication
@@ -191,6 +192,7 @@ DEPENDENCIES:
   - MBProgressHUD (~> 0.9)
   - SDWebImage (~> 3.7.1)
   - SVSegmentedControlFork (~> 1.1)
+  - TWTSideMenuViewController (~> 0.3)
   - WebViewJavascriptBridge (~> 4.1.4)
   - XMPPFramework (~> 3.6.4)
 
@@ -205,7 +207,8 @@ SPEC CHECKSUMS:
   MBProgressHUD: 2038dbcf3dce73215abed6001657043d53aa79a8
   SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
   SVSegmentedControlFork: 060b8ac98707cc32dd85468571aa1079af42da6d
+  TWTSideMenuViewController: 18633fb4be397ed1e83352ed50ddd55d04d94de3
   WebViewJavascriptBridge: 259a6c8c67b492bd8079c9944b6866d3476e16ac
   XMPPFramework: 5a8555132822ebb3e11d2bac0258e62754315bc5
 
-COCOAPODS: 0.33.1
+COCOAPODS: 0.34.1

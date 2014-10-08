@@ -11,5 +11,5 @@ pod 'MBProgressHUD', '~> 0.9'
 pod 'SVSegmentedControlFork', '~> 1.1'
 pod 'EGOTableViewPullRefreshAndLoadMore', '~> 1.0.4'
 pod 'SDWebImage', '~> 3.7.1'
-
+pod 'TWTSideMenuViewController', '~> 0.3'
 
